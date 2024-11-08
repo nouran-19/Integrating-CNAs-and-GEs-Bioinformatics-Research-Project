@@ -89,13 +89,13 @@ This project offers an opportunity to explore the intersection of bioinformatics
 ## Contributors
 <div align="left">
   <a href="https://github.com/Maskuerade">
-    <img src="https://avatars.githubusercontent.com/u/106713214?v=4" width="100px" alt="@Mariam Said Abdelmagied">
+    <img src="https://avatars.githubusercontent.com/u/106713214?v=4" width="100px" alt="Mariam Said Abdelmagied">
   </a>
   <a href="https://github.com/raghdaneiazyy6">
-    <img src="https://avatars.githubusercontent.com/u/96526181?v=4" width="100px" alt="@Raghda Tarek">
+    <img src="https://avatars.githubusercontent.com/u/96526181?v=4" width="100px" alt="Raghda Tarek">
   </a>
   <a href="https://github.com/nouran-19">
-    <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="@Nouran Khatab">
+    <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="Nouran Khatab">
   </a>
 </div>
 
