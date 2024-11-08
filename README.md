@@ -48,7 +48,7 @@ For each cancer type:
 
 #### 2. Regression Analysis
 For each cancer type:
-- Perform **multivariable regression** with the GE of one gene as the dependent variable and CNAs as independent variables.
+- Perform multivariable regression with the GE of one gene as the dependent variable and CNAs as the independent variables.
 - Focus on the **five most differentially expressed genes** identified in the first task.
 - Conduct the analysis on the intersection of cases between GE and CNA datasets.
 - Report significant copy number predictors for each gene.
@@ -87,15 +87,11 @@ For each cancer type:
 This project offers an opportunity to explore the intersection of bioinformatics and machine learning, with a focus on cancer genomics. By integrating CNAs and GEs data, we aim to uncover significant genomic predictors of gene expression changes, providing insights into cancer biology.
 
 ## Contributors
-<div align="left">
-  <a href="https://github.com/Maskuerade">
-    <img src="https://avatars.githubusercontent.com/u/106713214?v=4" width="100px" alt="Maskuerade">
-  </a>
-  <a href="https://github.com/raghdaneiazyy6">
-    <img src="https://avatars.githubusercontent.com/u/96526181?v=4" width="100px" alt="raghdaneiazyy6">
-  </a>
-  <a href="https://github.com/nouran-19">
-    <img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="nouran-19">
-  </a>
-</div>
+
+## Contributors
+
+| <a href="https://github.com/Maskuerade"><img src="https://avatars.githubusercontent.com/u/106713214?v=4" width="100px" alt="Maskuerade"></a> | <a href="https://github.com/raghdaneiazyy6"><img src="https://avatars.githubusercontent.com/u/96526181?v=4" width="100px" alt="raghdaneiazyy6"></a> | <a href="https://github.com/nouran-19"><img src="https://avatars.githubusercontent.com/u/99448829?v=4" width="100px" alt="nouran-19"></a> |
+|:---:|:---:|:---:|
+| [Mariam Said Abdelmagied](https://github.com/Maskuerade) | [Raghda Tarek](https://github.com/raghdaneiazyy6) | [Nouran Khatab](https://github.com/nouran-19) 
+
 
